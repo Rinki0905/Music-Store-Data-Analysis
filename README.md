@@ -1,1 +1,2 @@
-# Music-Store-Data-Analysis
+# Digital-Music-Store-Analysis
+SQL
